@@ -1,2 +1,2 @@
 # Customer-Retention-Deep-Learning
-Detection of customers which are going to leave a bank using some relevant features from sample data
+Using a Feed-Forward Neural Network, I predicted whether a customer wants to stay in a specific bank or not.
